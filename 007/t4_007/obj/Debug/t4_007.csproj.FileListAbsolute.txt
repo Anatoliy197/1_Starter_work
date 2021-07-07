@@ -1,0 +1,11 @@
+E:\С#\Tasks\007\t4_007\bin\Debug\t4_007.exe
+E:\С#\Tasks\007\t4_007\bin\Debug\t4_007.pdb
+E:\С#\Tasks\007\t4_007\obj\Debug\t4_007.csprojResolveAssemblyReference.cache
+E:\С#\Tasks\007\t4_007\obj\Debug\t4_007.csproj.CoreCompileInputs.cache
+E:\С#\Tasks\007\t4_007\obj\Debug\t4_007.exe
+E:\С#\Tasks\007\t4_007\obj\Debug\t4_007.pdb
+F:\С#\Tasks\007\t4_007\bin\Debug\t4_007.exe
+F:\С#\Tasks\007\t4_007\bin\Debug\t4_007.pdb
+F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.exe
+F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.pdb

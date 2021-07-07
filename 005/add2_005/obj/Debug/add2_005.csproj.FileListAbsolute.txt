@@ -1,0 +1,14 @@
+D:\ВТК\Trainee\005\add2_005\obj\Debug\add2_005.csprojAssemblyReference.cache
+D:\ВТК\Trainee\005\add2_005\obj\Debug\add2_005.csproj.CoreCompileInputs.cache
+D:\ВТК\Trainee\005\add2_005\bin\Debug\add2_005.exe.config
+D:\ВТК\Trainee\005\add2_005\bin\Debug\add2_005.exe
+D:\ВТК\Trainee\005\add2_005\bin\Debug\add2_005.pdb
+D:\ВТК\Trainee\005\add2_005\obj\Debug\add2_005.exe
+D:\ВТК\Trainee\005\add2_005\obj\Debug\add2_005.pdb
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\bin\Debug\add2_005.exe.config
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\bin\Debug\add2_005.exe
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\bin\Debug\add2_005.pdb
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\obj\Debug\add2_005.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\obj\Debug\add2_005.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\obj\Debug\add2_005.exe
+D:\ВТК\Программ\С#\1_Tasks\005\add2_005\obj\Debug\add2_005.pdb

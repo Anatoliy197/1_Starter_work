@@ -1,0 +1,7 @@
+F:\С#\Tasks\004\t3_004\bin\Debug\t3_004.exe.config
+F:\С#\Tasks\004\t3_004\bin\Debug\t3_004.exe
+F:\С#\Tasks\004\t3_004\bin\Debug\t3_004.pdb
+F:\С#\Tasks\004\t3_004\obj\Debug\t3_004.csprojAssemblyReference.cache
+F:\С#\Tasks\004\t3_004\obj\Debug\t3_004.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\004\t3_004\obj\Debug\t3_004.exe
+F:\С#\Tasks\004\t3_004\obj\Debug\t3_004.pdb

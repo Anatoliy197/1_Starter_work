@@ -1,0 +1,16 @@
+F:\С#\Tasks\008\t2_008\obj\Debug\t2_008.csprojAssemblyReference.cache
+F:\С#\Tasks\008\t2_008\obj\Debug\t2_008.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\Tasks\008\t2_008\obj\Debug\t2_008.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\Tasks\008\t2_008\obj\Debug\t2_008.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\Tasks\008\t2_008\bin\Debug\t2_008.exe.config
+D:\ВТК\Программ\С#\Tasks\008\t2_008\bin\Debug\t2_008.exe
+D:\ВТК\Программ\С#\Tasks\008\t2_008\bin\Debug\t2_008.pdb
+D:\ВТК\Программ\С#\Tasks\008\t2_008\obj\Debug\t2_008.exe
+D:\ВТК\Программ\С#\Tasks\008\t2_008\obj\Debug\t2_008.pdb
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\bin\Debug\t2_008.exe.config
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\bin\Debug\t2_008.exe
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\bin\Debug\t2_008.pdb
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\obj\Debug\t2_008.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\obj\Debug\t2_008.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\obj\Debug\t2_008.exe
+D:\ВТК\Программ\С#\1_Tasks\008\t2_008\obj\Debug\t2_008.pdb

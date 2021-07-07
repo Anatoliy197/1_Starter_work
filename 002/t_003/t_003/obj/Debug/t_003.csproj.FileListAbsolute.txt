@@ -1,0 +1,6 @@
+E:\С#\Tasks\002\t_003\t_003\obj\Debug\t_003.csprojResolveAssemblyReference.cache
+E:\С#\Tasks\002\t_003\t_003\obj\Debug\t_003.csproj.CoreCompileInputs.cache
+E:\С#\Tasks\002\t_003\t_003\bin\Debug\t_003.exe
+E:\С#\Tasks\002\t_003\t_003\bin\Debug\t_003.pdb
+E:\С#\Tasks\002\t_003\t_003\obj\Debug\t_003.exe
+E:\С#\Tasks\002\t_003\t_003\obj\Debug\t_003.pdb

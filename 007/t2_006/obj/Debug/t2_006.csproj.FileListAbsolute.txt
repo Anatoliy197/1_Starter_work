@@ -1,0 +1,14 @@
+D:\ВТК\Программ\С#\Tasks\007\t2_006\bin\Debug\t2_006.exe.config
+D:\ВТК\Программ\С#\Tasks\007\t2_006\bin\Debug\t2_006.exe
+D:\ВТК\Программ\С#\Tasks\007\t2_006\bin\Debug\t2_006.pdb
+D:\ВТК\Программ\С#\Tasks\007\t2_006\obj\Debug\t2_006.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\Tasks\007\t2_006\obj\Debug\t2_006.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\Tasks\007\t2_006\obj\Debug\t2_006.exe
+D:\ВТК\Программ\С#\Tasks\007\t2_006\obj\Debug\t2_006.pdb
+E:\С#\Tasks\007\t2_006\bin\Debug\t2_006.exe.config
+E:\С#\Tasks\007\t2_006\bin\Debug\t2_006.exe
+E:\С#\Tasks\007\t2_006\bin\Debug\t2_006.pdb
+E:\С#\Tasks\007\t2_006\obj\Debug\t2_006.csproj.CoreCompileInputs.cache
+E:\С#\Tasks\007\t2_006\obj\Debug\t2_006.exe
+E:\С#\Tasks\007\t2_006\obj\Debug\t2_006.pdb
+E:\С#\Tasks\007\t2_006\obj\Debug\t2_006.csprojResolveAssemblyReference.cache

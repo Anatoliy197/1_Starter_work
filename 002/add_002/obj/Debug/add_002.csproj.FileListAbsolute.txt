@@ -1,0 +1,5 @@
+D:\ВТК\Программ\С#\1_Tasks\002\add_002\obj\Debug\add_002.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\1_Tasks\002\add_002\obj\Debug\add_002.Form1.resources
+D:\ВТК\Программ\С#\1_Tasks\002\add_002\obj\Debug\add_002.Properties.Resources.resources
+D:\ВТК\Программ\С#\1_Tasks\002\add_002\obj\Debug\add_002.csproj.GenerateResource.cache
+D:\ВТК\Программ\С#\1_Tasks\002\add_002\obj\Debug\add_002.csproj.CoreCompileInputs.cache

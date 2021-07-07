@@ -1,0 +1,14 @@
+D:\ВТК\Trainee\005\t2_005\bin\Debug\t2_005.exe.config
+D:\ВТК\Trainee\005\t2_005\bin\Debug\t2_005.exe
+D:\ВТК\Trainee\005\t2_005\bin\Debug\t2_005.pdb
+D:\ВТК\Trainee\005\t2_005\obj\Debug\t2_005.csprojAssemblyReference.cache
+D:\ВТК\Trainee\005\t2_005\obj\Debug\t2_005.csproj.CoreCompileInputs.cache
+D:\ВТК\Trainee\005\t2_005\obj\Debug\t2_005.exe
+D:\ВТК\Trainee\005\t2_005\obj\Debug\t2_005.pdb
+F:\С#\Tasks\005\t2_005\bin\Debug\t2_005.exe.config
+F:\С#\Tasks\005\t2_005\bin\Debug\t2_005.exe
+F:\С#\Tasks\005\t2_005\bin\Debug\t2_005.pdb
+F:\С#\Tasks\005\t2_005\obj\Debug\t2_005.csprojAssemblyReference.cache
+F:\С#\Tasks\005\t2_005\obj\Debug\t2_005.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\005\t2_005\obj\Debug\t2_005.exe
+F:\С#\Tasks\005\t2_005\obj\Debug\t2_005.pdb

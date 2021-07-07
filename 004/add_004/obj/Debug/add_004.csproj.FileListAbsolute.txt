@@ -1,0 +1,16 @@
+D:\ВТК\Trainee\004\add_004\obj\Debug\add_004.csprojAssemblyReference.cache
+D:\ВТК\Trainee\004\add_004\obj\Debug\add_004.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\004\add_004\bin\Debug\add_004.exe.config
+F:\С#\Tasks\004\add_004\bin\Debug\add_004.exe
+F:\С#\Tasks\004\add_004\bin\Debug\add_004.pdb
+F:\С#\Tasks\004\add_004\obj\Debug\add_004.csprojAssemblyReference.cache
+F:\С#\Tasks\004\add_004\obj\Debug\add_004.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\004\add_004\obj\Debug\add_004.exe
+F:\С#\Tasks\004\add_004\obj\Debug\add_004.pdb
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\bin\Debug\add_004.exe.config
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\bin\Debug\add_004.exe
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\bin\Debug\add_004.pdb
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\obj\Debug\add_004.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\obj\Debug\add_004.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\obj\Debug\add_004.exe
+D:\ВТК\Программ\С#\1_Tasks\004\add_004\obj\Debug\add_004.pdb

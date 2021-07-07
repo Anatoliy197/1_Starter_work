@@ -1,0 +1,14 @@
+F:\С#\Tasks\006\t003_RSL\bin\Debug\t003_RSL.exe.config
+F:\С#\Tasks\006\t003_RSL\bin\Debug\t003_RSL.exe
+F:\С#\Tasks\006\t003_RSL\bin\Debug\t003_RSL.pdb
+F:\С#\Tasks\006\t003_RSL\obj\Debug\t003_RSL.csprojAssemblyReference.cache
+F:\С#\Tasks\006\t003_RSL\obj\Debug\t003_RSL.csproj.CoreCompileInputs.cache
+F:\С#\Tasks\006\t003_RSL\obj\Debug\t003_RSL.exe
+F:\С#\Tasks\006\t003_RSL\obj\Debug\t003_RSL.pdb
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\bin\Debug\t003_RSL.exe.config
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\bin\Debug\t003_RSL.exe
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\bin\Debug\t003_RSL.pdb
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\obj\Debug\t003_RSL.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\obj\Debug\t003_RSL.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\obj\Debug\t003_RSL.exe
+D:\ВТК\Программ\С#\1_Tasks\006\t003_RSL\obj\Debug\t003_RSL.pdb

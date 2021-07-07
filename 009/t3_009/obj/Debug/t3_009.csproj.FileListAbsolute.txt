@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\Tasks\009\t3_009\obj\Debug\t3_009.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\Tasks\009\t3_009\obj\Debug\t3_009.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\Tasks\009\t3_009\bin\Debug\t3_009.exe.config
+D:\ВТК\Программ\С#\Tasks\009\t3_009\bin\Debug\t3_009.exe
+D:\ВТК\Программ\С#\Tasks\009\t3_009\bin\Debug\t3_009.pdb
+D:\ВТК\Программ\С#\Tasks\009\t3_009\obj\Debug\t3_009.exe
+D:\ВТК\Программ\С#\Tasks\009\t3_009\obj\Debug\t3_009.pdb
