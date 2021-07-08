@@ -9,3 +9,9 @@ F:\С#\Tasks\007\t4_007\bin\Debug\t4_007.pdb
 F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.csproj.CoreCompileInputs.cache
 F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.exe
 F:\С#\Tasks\007\t4_007\obj\Debug\t4_007.pdb
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\bin\Debug\t4_007.exe
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\bin\Debug\t4_007.pdb
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\obj\Debug\t4_007.csproj.AssemblyReference.cache
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\obj\Debug\t4_007.csproj.CoreCompileInputs.cache
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\obj\Debug\t4_007.exe
+D:\ВТК\IT\С#\1_Tasks\007\t4_007\obj\Debug\t4_007.pdb

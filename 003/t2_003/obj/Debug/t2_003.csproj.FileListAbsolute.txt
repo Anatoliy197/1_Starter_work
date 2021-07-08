@@ -1,0 +1,6 @@
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\bin\Debug\t2_003.exe
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\bin\Debug\t2_003.pdb
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\obj\Debug\t2_003.csproj.AssemblyReference.cache
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\obj\Debug\t2_003.csproj.CoreCompileInputs.cache
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\obj\Debug\t2_003.exe
+D:\ВТК\IT\С#\1_Tasks\003\t2_003\obj\Debug\t2_003.pdb
